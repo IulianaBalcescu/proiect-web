@@ -1,0 +1,169 @@
+.first{
+    color:palevioletred;
+    background-color: pink;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-family:Embassy BT; 
+    text-align:center;
+    font-size: 70px;
+   padding-top: 5%;
+}
+.second{
+    background-color:pink;
+    color: palevioletred;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align:center;
+    padding-bottom: 150px;
+    font-family:Britannic Bold;
+}
+.third{
+    color: palevioletred;
+    text-align: center;
+    font-family:Franklin Gothic Demi Cond;
+}
+.avatar{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 80%;
+}
+.para1{
+    font-size: 30px;
+    font-family:Harlow Solid Italic;
+    text-align: center;
+}
+ .dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+.fourth{
+    color: palevioletred;
+    text-align: center;
+    font-family:Franklin Gothic Demi Cond;
+    background-color:gainsboro;
+    margin-top: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-bottom: 50px;
+    padding-top: 5%;
+} 
+.avatar2{
+    display: block;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: gainsboro;
+    /* margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px; */
+     width: 80px;
+     height: 80px;
+     border-radius: 100%;
+     float: left;
+     /* margin: 0 0 0 0px; */
+ }
+ .para3{
+    color:palevioletred;
+    background-color: gainsboro;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-family:Franklin Gothic Demi Cond; 
+    text-align:left;
+    font-size: 30px;
+}
+
+ .para2{
+    color:black;
+    background-color:gainsboro;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-family:Calibri (Body); 
+    text-align:left;
+    font-size: 20px;
+    padding-bottom: 3%;
+}
+.avatar3{
+    display: block;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: gainsboro;
+    /* margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px; */
+     width: 80px;
+     height: 80px;
+     border-radius: 100%;
+     float: right;
+     /* margin: 0 0 0 0px; */
+ }
+ .para5{
+    color:palevioletred;
+    background-color: gainsboro;
+    margin-top: -10px;
+    margin-left: 0px;
+    margin-right:-10px;
+    font-family:Franklin Gothic Demi Cond; 
+    text-align:left;
+    font-size: 30px;
+    padding-left: 15px;
+}
+
+ .para4{
+    color:black;
+    background-color:gainsboro;
+    margin-top:-10px;
+    margin-left: 0px;
+    margin-right: -10px;
+    font-family:Calibri (Body); 
+    text-align:left;
+    font-size: 20px;
+    padding-bottom: 5%;
+    padding-left: 15px;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+.fifth{
+    color: palevioletred;
+    text-align: center;
+    font-family:Franklin Gothic Demi Cond;
+}
+.submit{
+border-radius: 50%;
+background-color: rosybrown;
+padding: 14px 28px;
+width: 25%;
+text-align: center;
+font-size: 16px;
+cursor: pointer;
+display: inline-block;
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+margin-left: 37%;
+font-family: Algerian;
+color:white;
+}
+.contact{
+    background-color: pink;
+    font-family:Eras Light ITC;
+    margin-top: 30px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align:center;
+    padding-top: 5%;
+    padding-bottom: 50px;
+    font-size: 20px;
+    margin-bottom: -10px;
+}
